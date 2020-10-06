@@ -1,4 +1,4 @@
-###run_analysis
+###run_analysissss
 X <- rbind(x_train, x_test)
 Y <- rbind(y_train, y_test)
 Subject <- rbind(subject_train, subject_test)
